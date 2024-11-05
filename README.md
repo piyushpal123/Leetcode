@@ -6,6 +6,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 ## String
 |  |
 | ------- |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/piyushpal123/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/piyushpal123/Leetcode/tree/master/3451-string-compression-iii) |
 ## Array
 |  |
