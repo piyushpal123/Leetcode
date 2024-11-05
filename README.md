@@ -6,6 +6,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/piyushpal123/Leetcode/tree/master/0013-roman-to-integer) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/piyushpal123/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/piyushpal123/Leetcode/tree/master/3451-string-compression-iii) |
 ## Array
@@ -20,4 +21,12 @@ This repository contains solutions to various LeetCode problems, categorized by 
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/piyushpal123/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/piyushpal123/Leetcode/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/piyushpal123/Leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
