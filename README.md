@@ -13,6 +13,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/piyushpal123/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/piyushpal123/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [3291-find-if-array-can-be-sorted](https://github.com/piyushpal123/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Two Pointers
 |  |
@@ -22,6 +23,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/piyushpal123/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/piyushpal123/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [3291-find-if-array-can-be-sorted](https://github.com/piyushpal123/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Hash Table
 |  |
@@ -34,5 +36,10 @@ This repository contains solutions to various LeetCode problems, categorized by 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/piyushpal123/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [3291-find-if-array-can-be-sorted](https://github.com/piyushpal123/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+## Counting
+|  |
+| ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/piyushpal123/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
