@@ -12,6 +12,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 ## Array
 |  |
 | ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/piyushpal123/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1019-squares-of-a-sorted-array](https://github.com/piyushpal123/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/piyushpal123/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1940-maximum-xor-for-each-query](https://github.com/piyushpal123/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
@@ -25,6 +26,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 ## Sorting
 |  |
 | ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/piyushpal123/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1019-squares-of-a-sorted-array](https://github.com/piyushpal123/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/piyushpal123/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [3291-find-if-array-can-be-sorted](https://github.com/piyushpal123/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -49,6 +51,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 ## Counting
 |  |
 | ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/piyushpal123/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/piyushpal123/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/piyushpal123/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Prefix Sum
@@ -59,4 +62,8 @@ This repository contains solutions to various LeetCode problems, categorized by 
 |  |
 | ------- |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/piyushpal123/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+## Greedy
+|  |
+| ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/piyushpal123/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 <!---LeetCode Topics End-->
