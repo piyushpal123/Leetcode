@@ -16,6 +16,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [1019-squares-of-a-sorted-array](https://github.com/piyushpal123/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/piyushpal123/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1940-maximum-xor-for-each-query](https://github.com/piyushpal123/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/piyushpal123/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/piyushpal123/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2716-prime-subtraction-operation](https://github.com/piyushpal123/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/piyushpal123/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -30,6 +31,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [0982-minimum-increment-to-make-array-unique](https://github.com/piyushpal123/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1019-squares-of-a-sorted-array](https://github.com/piyushpal123/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/piyushpal123/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/piyushpal123/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [3291-find-if-array-can-be-sorted](https://github.com/piyushpal123/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Hash Table
 |  |
@@ -72,6 +74,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 ## Binary Search
 |  |
 | ------- |
+| [2179-most-beautiful-item-for-each-query](https://github.com/piyushpal123/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2716-prime-subtraction-operation](https://github.com/piyushpal123/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Number Theory
 |  |
