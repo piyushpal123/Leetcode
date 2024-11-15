@@ -15,6 +15,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [0982-minimum-increment-to-make-array-unique](https://github.com/piyushpal123/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1019-squares-of-a-sorted-array](https://github.com/piyushpal123/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/piyushpal123/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/piyushpal123/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1940-maximum-xor-for-each-query](https://github.com/piyushpal123/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/piyushpal123/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/piyushpal123/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -27,6 +28,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/piyushpal123/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/piyushpal123/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/piyushpal123/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
 |  |
@@ -78,6 +80,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 ## Binary Search
 |  |
 | ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/piyushpal123/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/piyushpal123/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/piyushpal123/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/piyushpal123/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -86,4 +89,12 @@ This repository contains solutions to various LeetCode problems, categorized by 
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/piyushpal123/Leetcode/tree/master/2716-prime-subtraction-operation) |
+## Stack
+|  |
+| ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/piyushpal123/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/piyushpal123/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 <!---LeetCode Topics End-->
