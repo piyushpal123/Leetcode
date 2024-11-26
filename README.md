@@ -16,6 +16,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [0787-sliding-puzzle](https://github.com/piyushpal123/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/piyushpal123/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1019-squares-of-a-sorted-array](https://github.com/piyushpal123/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1036-rotting-oranges](https://github.com/piyushpal123/Leetcode/tree/master/1036-rotting-oranges) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/piyushpal123/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/piyushpal123/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/piyushpal123/Leetcode/tree/master/1755-defuse-the-bomb) |
@@ -117,6 +118,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/piyushpal123/Leetcode/tree/master/0787-sliding-puzzle) |
+| [1036-rotting-oranges](https://github.com/piyushpal123/Leetcode/tree/master/1036-rotting-oranges) |
 | [1972-rotating-the-box](https://github.com/piyushpal123/Leetcode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/piyushpal123/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/piyushpal123/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -129,6 +131,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | ------- |
 | [0547-number-of-provinces](https://github.com/piyushpal123/Leetcode/tree/master/0547-number-of-provinces) |
 | [0787-sliding-puzzle](https://github.com/piyushpal123/Leetcode/tree/master/0787-sliding-puzzle) |
+| [1036-rotting-oranges](https://github.com/piyushpal123/Leetcode/tree/master/1036-rotting-oranges) |
 ## Graph
 |  |
 | ------- |
