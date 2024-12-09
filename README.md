@@ -42,6 +42,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [2716-prime-subtraction-operation](https://github.com/piyushpal123/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/piyushpal123/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/piyushpal123/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3427-special-array-ii](https://github.com/piyushpal123/Leetcode/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/piyushpal123/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/piyushpal123/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Two Pointers
@@ -101,6 +102,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 |  |
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/piyushpal123/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
+| [3427-special-array-ii](https://github.com/piyushpal123/Leetcode/tree/master/3427-special-array-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -128,6 +130,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/piyushpal123/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/piyushpal123/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/piyushpal123/Leetcode/tree/master/2716-prime-subtraction-operation) |
+| [3427-special-array-ii](https://github.com/piyushpal123/Leetcode/tree/master/3427-special-array-ii) |
 ## Number Theory
 |  |
 | ------- |
