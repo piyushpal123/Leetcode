@@ -221,6 +221,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/piyushpal123/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [1917-maximum-average-pass-ratio](https://github.com/piyushpal123/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/piyushpal123/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/piyushpal123/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -238,4 +239,16 @@ This repository contains solutions to various LeetCode problems, categorized by 
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/piyushpal123/Leetcode/tree/master/2868-continuous-subarrays) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/piyushpal123/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/piyushpal123/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/piyushpal123/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
