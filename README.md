@@ -30,6 +30,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/piyushpal123/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/piyushpal123/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/piyushpal123/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1917-maximum-average-pass-ratio](https://github.com/piyushpal123/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1940-maximum-xor-for-each-query](https://github.com/piyushpal123/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/piyushpal123/Leetcode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/piyushpal123/Leetcode/tree/master/2089-maximum-matrix-sum) |
@@ -130,6 +131,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/piyushpal123/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1917-maximum-average-pass-ratio](https://github.com/piyushpal123/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/piyushpal123/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/piyushpal123/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/piyushpal123/Leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -216,6 +218,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/piyushpal123/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/piyushpal123/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/piyushpal123/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/piyushpal123/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
