@@ -30,6 +30,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [1036-rotting-oranges](https://github.com/piyushpal123/Leetcode/tree/master/1036-rotting-oranges) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/piyushpal123/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/piyushpal123/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/piyushpal123/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/piyushpal123/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/piyushpal123/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/piyushpal123/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -169,10 +170,12 @@ This repository contains solutions to various LeetCode problems, categorized by 
 ## Stack
 |  |
 | ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/piyushpal123/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/piyushpal123/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/piyushpal123/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/piyushpal123/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Matrix
 |  |
