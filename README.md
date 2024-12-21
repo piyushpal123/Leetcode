@@ -220,6 +220,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [0547-number-of-provinces](https://github.com/piyushpal123/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/piyushpal123/Leetcode/tree/master/0733-flood-fill) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/piyushpal123/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/piyushpal123/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Union Find
 |  |
 | ------- |
@@ -284,6 +285,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/piyushpal123/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/piyushpal123/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
