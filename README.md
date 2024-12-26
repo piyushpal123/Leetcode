@@ -22,6 +22,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 ## Array
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/piyushpal123/Leetcode/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/piyushpal123/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/piyushpal123/Leetcode/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/piyushpal123/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -234,11 +235,13 @@ This repository contains solutions to various LeetCode problems, categorized by 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/piyushpal123/Leetcode/tree/master/0022-generate-parentheses) |
+| [0494-target-sum](https://github.com/piyushpal123/Leetcode/tree/master/0494-target-sum) |
 | [2164-two-best-non-overlapping-events](https://github.com/piyushpal123/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/piyushpal123/Leetcode/tree/master/0022-generate-parentheses) |
+| [0494-target-sum](https://github.com/piyushpal123/Leetcode/tree/master/0494-target-sum) |
 ## String Matching
 |  |
 | ------- |
