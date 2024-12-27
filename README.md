@@ -22,6 +22,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/piyushpal123/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0494-target-sum](https://github.com/piyushpal123/Leetcode/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/piyushpal123/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/piyushpal123/Leetcode/tree/master/0733-flood-fill) |
@@ -189,6 +190,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/piyushpal123/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0733-flood-fill](https://github.com/piyushpal123/Leetcode/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/piyushpal123/Leetcode/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/piyushpal123/Leetcode/tree/master/1036-rotting-oranges) |
@@ -237,6 +239,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | ------- |
 | [0022-generate-parentheses](https://github.com/piyushpal123/Leetcode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/piyushpal123/Leetcode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/piyushpal123/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0494-target-sum](https://github.com/piyushpal123/Leetcode/tree/master/0494-target-sum) |
 | [2164-two-best-non-overlapping-events](https://github.com/piyushpal123/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 ## Backtracking
