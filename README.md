@@ -106,6 +106,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/piyushpal123/Leetcode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/piyushpal123/Leetcode/tree/master/0062-unique-paths) |
 | [2716-prime-subtraction-operation](https://github.com/piyushpal123/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/piyushpal123/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bit Manipulation
@@ -235,6 +236,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/piyushpal123/Leetcode/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/piyushpal123/Leetcode/tree/master/0062-unique-paths) |
 | [0494-target-sum](https://github.com/piyushpal123/Leetcode/tree/master/0494-target-sum) |
 | [2164-two-best-non-overlapping-events](https://github.com/piyushpal123/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 ## Backtracking
@@ -302,4 +304,8 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/piyushpal123/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/piyushpal123/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/piyushpal123/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/piyushpal123/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
