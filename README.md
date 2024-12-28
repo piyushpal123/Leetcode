@@ -8,6 +8,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | ------- |
 | [0013-roman-to-integer](https://github.com/piyushpal123/Leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/piyushpal123/Leetcode/tree/master/0022-generate-parentheses) |
+| [0058-length-of-last-word](https://github.com/piyushpal123/Leetcode/tree/master/0058-length-of-last-word) |
 | [0208-implement-trie-prefix-tree](https://github.com/piyushpal123/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/piyushpal123/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/piyushpal123/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
