@@ -11,6 +11,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [0058-length-of-last-word](https://github.com/piyushpal123/Leetcode/tree/master/0058-length-of-last-word) |
 | [0208-implement-trie-prefix-tree](https://github.com/piyushpal123/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0678-valid-parenthesis-string](https://github.com/piyushpal123/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/piyushpal123/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/piyushpal123/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/piyushpal123/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2232-adding-spaces-to-a-string](https://github.com/piyushpal123/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -134,6 +135,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 ## Prefix Sum
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/piyushpal123/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/piyushpal123/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [3427-special-array-ii](https://github.com/piyushpal123/Leetcode/tree/master/3427-special-array-ii) |
 ## Sliding Window
