@@ -218,6 +218,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/piyushpal123/Leetcode/tree/master/0207-course-schedule) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/piyushpal123/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/piyushpal123/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/piyushpal123/Leetcode/tree/master/0733-flood-fill) |
@@ -229,12 +230,14 @@ This repository contains solutions to various LeetCode problems, categorized by 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/piyushpal123/Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/piyushpal123/Leetcode/tree/master/0547-number-of-provinces) |
 | [3189-find-champion-ii](https://github.com/piyushpal123/Leetcode/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/piyushpal123/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/piyushpal123/Leetcode/tree/master/0207-course-schedule) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/piyushpal123/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/piyushpal123/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/piyushpal123/Leetcode/tree/master/0733-flood-fill) |
@@ -323,4 +326,8 @@ This repository contains solutions to various LeetCode problems, categorized by 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/piyushpal123/Leetcode/tree/master/0062-unique-paths) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/piyushpal123/Leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
