@@ -47,6 +47,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [1524-string-matching-in-an-array](https://github.com/piyushpal123/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/piyushpal123/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/piyushpal123/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1753-path-with-minimum-effort](https://github.com/piyushpal123/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/piyushpal123/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/piyushpal123/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/piyushpal123/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -182,6 +183,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [0907-koko-eating-bananas](https://github.com/piyushpal123/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/piyushpal123/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/piyushpal123/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1753-path-with-minimum-effort](https://github.com/piyushpal123/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/piyushpal123/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/piyushpal123/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/piyushpal123/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -217,6 +219,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [0787-sliding-puzzle](https://github.com/piyushpal123/Leetcode/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/piyushpal123/Leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/piyushpal123/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/piyushpal123/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1972-rotating-the-box](https://github.com/piyushpal123/Leetcode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/piyushpal123/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/piyushpal123/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -238,6 +241,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [0787-sliding-puzzle](https://github.com/piyushpal123/Leetcode/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/piyushpal123/Leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/piyushpal123/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/piyushpal123/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/piyushpal123/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/piyushpal123/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/piyushpal123/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -255,12 +259,14 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/piyushpal123/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/piyushpal123/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/piyushpal123/Leetcode/tree/master/0733-flood-fill) |
+| [1753-path-with-minimum-effort](https://github.com/piyushpal123/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/piyushpal123/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/piyushpal123/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Union Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/piyushpal123/Leetcode/tree/master/0547-number-of-provinces) |
+| [1753-path-with-minimum-effort](https://github.com/piyushpal123/Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -287,6 +293,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/piyushpal123/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [1753-path-with-minimum-effort](https://github.com/piyushpal123/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/piyushpal123/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/piyushpal123/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/piyushpal123/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
