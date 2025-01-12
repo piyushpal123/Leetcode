@@ -31,6 +31,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/piyushpal123/Leetcode/tree/master/0039-combination-sum) |
 | [0064-minimum-path-sum](https://github.com/piyushpal123/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0494-target-sum](https://github.com/piyushpal123/Leetcode/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/piyushpal123/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -284,6 +285,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/piyushpal123/Leetcode/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/piyushpal123/Leetcode/tree/master/0039-combination-sum) |
 | [0494-target-sum](https://github.com/piyushpal123/Leetcode/tree/master/0494-target-sum) |
 ## String Matching
 |  |
