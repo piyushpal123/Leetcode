@@ -11,6 +11,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [0058-length-of-last-word](https://github.com/piyushpal123/Leetcode/tree/master/0058-length-of-last-word) |
 | [0208-implement-trie-prefix-tree](https://github.com/piyushpal123/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0678-valid-parenthesis-string](https://github.com/piyushpal123/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1250-longest-common-subsequence](https://github.com/piyushpal123/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1524-string-matching-in-an-array](https://github.com/piyushpal123/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/piyushpal123/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/piyushpal123/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -290,6 +291,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [0494-target-sum](https://github.com/piyushpal123/Leetcode/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/piyushpal123/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1063-best-sightseeing-pair](https://github.com/piyushpal123/Leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1250-longest-common-subsequence](https://github.com/piyushpal123/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [2164-two-best-non-overlapping-events](https://github.com/piyushpal123/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 ## Backtracking
 |  |
