@@ -46,6 +46,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [1036-rotting-oranges](https://github.com/piyushpal123/Leetcode/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/piyushpal123/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/piyushpal123/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1396-count-servers-that-communicate](https://github.com/piyushpal123/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/piyushpal123/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/piyushpal123/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/piyushpal123/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -155,6 +156,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/piyushpal123/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1396-count-servers-that-communicate](https://github.com/piyushpal123/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/piyushpal123/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/piyushpal123/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/piyushpal123/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -238,6 +240,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [0787-sliding-puzzle](https://github.com/piyushpal123/Leetcode/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/piyushpal123/Leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/piyushpal123/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1396-count-servers-that-communicate](https://github.com/piyushpal123/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/piyushpal123/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/piyushpal123/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/piyushpal123/Leetcode/tree/master/1876-map-of-highest-peak) |
@@ -262,6 +265,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [0787-sliding-puzzle](https://github.com/piyushpal123/Leetcode/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/piyushpal123/Leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/piyushpal123/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1396-count-servers-that-communicate](https://github.com/piyushpal123/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/piyushpal123/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/piyushpal123/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/piyushpal123/Leetcode/tree/master/1876-map-of-highest-peak) |
@@ -283,6 +287,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/piyushpal123/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/piyushpal123/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/piyushpal123/Leetcode/tree/master/0733-flood-fill) |
+| [1396-count-servers-that-communicate](https://github.com/piyushpal123/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1753-path-with-minimum-effort](https://github.com/piyushpal123/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/piyushpal123/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/piyushpal123/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -290,6 +295,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/piyushpal123/Leetcode/tree/master/0547-number-of-provinces) |
+| [1396-count-servers-that-communicate](https://github.com/piyushpal123/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1753-path-with-minimum-effort](https://github.com/piyushpal123/Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Dynamic Programming
 |  |
