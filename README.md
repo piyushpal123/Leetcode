@@ -79,6 +79,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/piyushpal123/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/piyushpal123/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/piyushpal123/Leetcode/tree/master/2716-prime-subtraction-operation) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/piyushpal123/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/piyushpal123/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/piyushpal123/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2868-continuous-subarrays](https://github.com/piyushpal123/Leetcode/tree/master/2868-continuous-subarrays) |
@@ -249,6 +250,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [1972-rotating-the-box](https://github.com/piyushpal123/Leetcode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/piyushpal123/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/piyushpal123/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/piyushpal123/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -273,6 +275,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [1876-map-of-highest-peak](https://github.com/piyushpal123/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/piyushpal123/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/piyushpal123/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/piyushpal123/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/piyushpal123/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
 |  |
@@ -292,6 +295,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [1396-count-servers-that-communicate](https://github.com/piyushpal123/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1753-path-with-minimum-effort](https://github.com/piyushpal123/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/piyushpal123/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/piyushpal123/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/piyushpal123/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Union Find
 |  |
@@ -299,6 +303,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [0547-number-of-provinces](https://github.com/piyushpal123/Leetcode/tree/master/0547-number-of-provinces) |
 | [1396-count-servers-that-communicate](https://github.com/piyushpal123/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1753-path-with-minimum-effort](https://github.com/piyushpal123/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/piyushpal123/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
