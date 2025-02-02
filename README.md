@@ -37,6 +37,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | ------- |
 | [0039-combination-sum](https://github.com/piyushpal123/Leetcode/tree/master/0039-combination-sum) |
 | [0064-minimum-path-sum](https://github.com/piyushpal123/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0229-majority-element-ii](https://github.com/piyushpal123/Leetcode/tree/master/0229-majority-element-ii) |
 | [0494-target-sum](https://github.com/piyushpal123/Leetcode/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/piyushpal123/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/piyushpal123/Leetcode/tree/master/0733-flood-fill) |
@@ -111,6 +112,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/piyushpal123/Leetcode/tree/master/0229-majority-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/piyushpal123/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/piyushpal123/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1019-squares-of-a-sorted-array](https://github.com/piyushpal123/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -128,6 +130,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | ------- |
 | [0013-roman-to-integer](https://github.com/piyushpal123/Leetcode/tree/master/0013-roman-to-integer) |
 | [0208-implement-trie-prefix-tree](https://github.com/piyushpal123/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0229-majority-element-ii](https://github.com/piyushpal123/Leetcode/tree/master/0229-majority-element-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/piyushpal123/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/piyushpal123/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/piyushpal123/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -162,6 +165,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/piyushpal123/Leetcode/tree/master/0229-majority-element-ii) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/piyushpal123/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1396-count-servers-that-communicate](https://github.com/piyushpal123/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/piyushpal123/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
