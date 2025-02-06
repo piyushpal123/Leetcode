@@ -50,6 +50,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [1036-rotting-oranges](https://github.com/piyushpal123/Leetcode/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/piyushpal123/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/piyushpal123/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1364-tuple-with-same-product](https://github.com/piyushpal123/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/piyushpal123/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/piyushpal123/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/piyushpal123/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -134,6 +135,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [0013-roman-to-integer](https://github.com/piyushpal123/Leetcode/tree/master/0013-roman-to-integer) |
 | [0208-implement-trie-prefix-tree](https://github.com/piyushpal123/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/piyushpal123/Leetcode/tree/master/0229-majority-element-ii) |
+| [1364-tuple-with-same-product](https://github.com/piyushpal123/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/piyushpal123/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/piyushpal123/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/piyushpal123/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -171,6 +173,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | ------- |
 | [0229-majority-element-ii](https://github.com/piyushpal123/Leetcode/tree/master/0229-majority-element-ii) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/piyushpal123/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1364-tuple-with-same-product](https://github.com/piyushpal123/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/piyushpal123/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/piyushpal123/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/piyushpal123/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
