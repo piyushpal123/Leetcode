@@ -31,6 +31,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/piyushpal123/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/piyushpal123/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/piyushpal123/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/piyushpal123/Leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/piyushpal123/Leetcode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/piyushpal123/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Array
@@ -253,6 +254,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/piyushpal123/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/piyushpal123/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/piyushpal123/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3447-clear-digits](https://github.com/piyushpal123/Leetcode/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -283,6 +285,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/piyushpal123/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/piyushpal123/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/piyushpal123/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/piyushpal123/Leetcode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/piyushpal123/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Breadth-First Search
 |  |
