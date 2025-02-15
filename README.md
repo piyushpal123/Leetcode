@@ -168,6 +168,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [1477-product-of-the-last-k-numbers](https://github.com/piyushpal123/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/piyushpal123/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/piyushpal123/Leetcode/tree/master/2716-prime-subtraction-operation) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/piyushpal123/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/piyushpal123/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bit Manipulation
 |  |
@@ -360,6 +361,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [0022-generate-parentheses](https://github.com/piyushpal123/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/piyushpal123/Leetcode/tree/master/0039-combination-sum) |
 | [0494-target-sum](https://github.com/piyushpal123/Leetcode/tree/master/0494-target-sum) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/piyushpal123/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## String Matching
 |  |
 | ------- |
