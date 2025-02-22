@@ -13,6 +13,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [0058-length-of-last-word](https://github.com/piyushpal123/Leetcode/tree/master/0058-length-of-last-word) |
 | [0208-implement-trie-prefix-tree](https://github.com/piyushpal123/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0678-valid-parenthesis-string](https://github.com/piyushpal123/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/piyushpal123/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/piyushpal123/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1250-longest-common-subsequence](https://github.com/piyushpal123/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/piyushpal123/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -341,6 +342,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/piyushpal123/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/piyushpal123/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/piyushpal123/Leetcode/tree/master/0733-flood-fill) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/piyushpal123/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1396-count-servers-that-communicate](https://github.com/piyushpal123/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1753-path-with-minimum-effort](https://github.com/piyushpal123/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/piyushpal123/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -439,6 +441,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/piyushpal123/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/piyushpal123/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/piyushpal123/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/piyushpal123/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/piyushpal123/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -446,6 +449,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/piyushpal123/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/piyushpal123/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/piyushpal123/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/piyushpal123/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Combinatorics
