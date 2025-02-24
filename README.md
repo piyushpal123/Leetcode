@@ -44,6 +44,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | ------- |
 | [0039-combination-sum](https://github.com/piyushpal123/Leetcode/tree/master/0039-combination-sum) |
 | [0064-minimum-path-sum](https://github.com/piyushpal123/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/piyushpal123/Leetcode/tree/master/0066-plus-one) |
 | [0120-triangle](https://github.com/piyushpal123/Leetcode/tree/master/0120-triangle) |
 | [0229-majority-element-ii](https://github.com/piyushpal123/Leetcode/tree/master/0229-majority-element-ii) |
 | [0494-target-sum](https://github.com/piyushpal123/Leetcode/tree/master/0494-target-sum) |
@@ -174,6 +175,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | ------- |
 | [0013-roman-to-integer](https://github.com/piyushpal123/Leetcode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/piyushpal123/Leetcode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/piyushpal123/Leetcode/tree/master/0066-plus-one) |
 | [1477-product-of-the-last-k-numbers](https://github.com/piyushpal123/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/piyushpal123/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/piyushpal123/Leetcode/tree/master/2716-prime-subtraction-operation) |
