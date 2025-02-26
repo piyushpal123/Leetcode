@@ -70,6 +70,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/piyushpal123/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1753-path-with-minimum-effort](https://github.com/piyushpal123/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/piyushpal123/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/piyushpal123/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/piyushpal123/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/piyushpal123/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/piyushpal123/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -369,6 +370,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [0678-valid-parenthesis-string](https://github.com/piyushpal123/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1063-best-sightseeing-pair](https://github.com/piyushpal123/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1250-longest-common-subsequence](https://github.com/piyushpal123/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/piyushpal123/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2164-two-best-non-overlapping-events](https://github.com/piyushpal123/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 ## Backtracking
 |  |
