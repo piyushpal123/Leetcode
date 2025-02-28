@@ -492,4 +492,8 @@ This repository contains solutions to various LeetCode problems, categorized by 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/piyushpal123/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/piyushpal123/Leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
