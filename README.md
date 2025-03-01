@@ -121,6 +121,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/piyushpal123/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0202-happy-number](https://github.com/piyushpal123/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/piyushpal123/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/piyushpal123/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/piyushpal123/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -153,6 +154,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/piyushpal123/Leetcode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/piyushpal123/Leetcode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/piyushpal123/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/piyushpal123/Leetcode/tree/master/0229-majority-element-ii) |
 | [1160-letter-tile-possibilities](https://github.com/piyushpal123/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -180,6 +182,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [0013-roman-to-integer](https://github.com/piyushpal123/Leetcode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/piyushpal123/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/piyushpal123/Leetcode/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/piyushpal123/Leetcode/tree/master/0202-happy-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/piyushpal123/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/piyushpal123/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/piyushpal123/Leetcode/tree/master/2716-prime-subtraction-operation) |
