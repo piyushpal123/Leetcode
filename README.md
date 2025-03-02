@@ -100,6 +100,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/piyushpal123/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/piyushpal123/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/piyushpal123/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/piyushpal123/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2716-prime-subtraction-operation](https://github.com/piyushpal123/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/piyushpal123/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/piyushpal123/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -132,6 +133,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [2414-move-pieces-to-obtain-a-string](https://github.com/piyushpal123/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/piyushpal123/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/piyushpal123/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/piyushpal123/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/piyushpal123/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Sorting
 |  |
@@ -172,6 +174,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/piyushpal123/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/piyushpal123/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/piyushpal123/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/piyushpal123/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/piyushpal123/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/piyushpal123/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/piyushpal123/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
