@@ -46,6 +46,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/piyushpal123/Leetcode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/piyushpal123/Leetcode/tree/master/0039-combination-sum) |
 | [0064-minimum-path-sum](https://github.com/piyushpal123/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/piyushpal123/Leetcode/tree/master/0066-plus-one) |
@@ -129,6 +130,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/piyushpal123/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/piyushpal123/Leetcode/tree/master/0031-next-permutation) |
 | [0202-happy-number](https://github.com/piyushpal123/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/piyushpal123/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/piyushpal123/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
