@@ -49,6 +49,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | ------- |
 | [0031-next-permutation](https://github.com/piyushpal123/Leetcode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/piyushpal123/Leetcode/tree/master/0039-combination-sum) |
+| [0056-merge-intervals](https://github.com/piyushpal123/Leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/piyushpal123/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/piyushpal123/Leetcode/tree/master/0066-plus-one) |
 | [0120-triangle](https://github.com/piyushpal123/Leetcode/tree/master/0120-triangle) |
@@ -151,6 +152,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/piyushpal123/Leetcode/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/piyushpal123/Leetcode/tree/master/0229-majority-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/piyushpal123/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/piyushpal123/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
