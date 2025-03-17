@@ -63,6 +63,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [0982-minimum-increment-to-make-array-unique](https://github.com/piyushpal123/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1019-squares-of-a-sorted-array](https://github.com/piyushpal123/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/piyushpal123/Leetcode/tree/master/1036-rotting-oranges) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/piyushpal123/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/piyushpal123/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/piyushpal123/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/piyushpal123/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -296,6 +297,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/piyushpal123/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/piyushpal123/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/piyushpal123/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/piyushpal123/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/piyushpal123/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/piyushpal123/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
