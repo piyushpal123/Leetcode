@@ -225,6 +225,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/piyushpal123/Leetcode/tree/master/0191-number-of-1-bits) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/piyushpal123/Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1940-maximum-xor-for-each-query](https://github.com/piyushpal123/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2308-divide-array-into-equal-pairs](https://github.com/piyushpal123/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -493,6 +494,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/piyushpal123/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0191-number-of-1-bits](https://github.com/piyushpal123/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Merge Sort
 |  |
 | ------- |
