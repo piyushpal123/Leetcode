@@ -57,6 +57,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [0229-majority-element-ii](https://github.com/piyushpal123/Leetcode/tree/master/0229-majority-element-ii) |
 | [0494-target-sum](https://github.com/piyushpal123/Leetcode/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/piyushpal123/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/piyushpal123/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/piyushpal123/Leetcode/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/piyushpal123/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/piyushpal123/Leetcode/tree/master/0787-sliding-puzzle) |
@@ -352,6 +353,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/piyushpal123/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0542-01-matrix](https://github.com/piyushpal123/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/piyushpal123/Leetcode/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/piyushpal123/Leetcode/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/piyushpal123/Leetcode/tree/master/1036-rotting-oranges) |
@@ -385,6 +387,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | ------- |
 | [0207-course-schedule](https://github.com/piyushpal123/Leetcode/tree/master/0207-course-schedule) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/piyushpal123/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0542-01-matrix](https://github.com/piyushpal123/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/piyushpal123/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/piyushpal123/Leetcode/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/piyushpal123/Leetcode/tree/master/0787-sliding-puzzle) |
@@ -435,6 +438,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [0064-minimum-path-sum](https://github.com/piyushpal123/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/piyushpal123/Leetcode/tree/master/0120-triangle) |
 | [0494-target-sum](https://github.com/piyushpal123/Leetcode/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/piyushpal123/Leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/piyushpal123/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1063-best-sightseeing-pair](https://github.com/piyushpal123/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1170-shortest-common-supersequence](https://github.com/piyushpal123/Leetcode/tree/master/1170-shortest-common-supersequence) |
