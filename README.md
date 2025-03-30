@@ -13,6 +13,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [0058-length-of-last-word](https://github.com/piyushpal123/Leetcode/tree/master/0058-length-of-last-word) |
 | [0208-implement-trie-prefix-tree](https://github.com/piyushpal123/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0678-valid-parenthesis-string](https://github.com/piyushpal123/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0768-partition-labels](https://github.com/piyushpal123/Leetcode/tree/master/0768-partition-labels) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/piyushpal123/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/piyushpal123/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/piyushpal123/Leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -148,6 +149,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [0031-next-permutation](https://github.com/piyushpal123/Leetcode/tree/master/0031-next-permutation) |
 | [0202-happy-number](https://github.com/piyushpal123/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/piyushpal123/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0768-partition-labels](https://github.com/piyushpal123/Leetcode/tree/master/0768-partition-labels) |
 | [1019-squares-of-a-sorted-array](https://github.com/piyushpal123/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/piyushpal123/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/piyushpal123/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -186,6 +188,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 | [0202-happy-number](https://github.com/piyushpal123/Leetcode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/piyushpal123/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/piyushpal123/Leetcode/tree/master/0229-majority-element-ii) |
+| [0768-partition-labels](https://github.com/piyushpal123/Leetcode/tree/master/0768-partition-labels) |
 | [1160-letter-tile-possibilities](https://github.com/piyushpal123/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/piyushpal123/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/piyushpal123/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -294,6 +297,7 @@ This repository contains solutions to various LeetCode problems, categorized by 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/piyushpal123/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0768-partition-labels](https://github.com/piyushpal123/Leetcode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/piyushpal123/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/piyushpal123/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1917-maximum-average-pass-ratio](https://github.com/piyushpal123/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
